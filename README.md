@@ -1,2 +1,2 @@
 # Shopping-Cart
-Shopping Store I will add features in the future as a tasks soon 
+Shopping Store I will add features in this project  as a tasks 
